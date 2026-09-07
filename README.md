@@ -4,7 +4,7 @@ Halo! Saya sedang belajar programming.
 
 ## 📖 Tentang Project
 
-Project ini dibuat untuk belajar HTML, CSS, dan JavaScript.
+Project ini dibuat untuk belajar HTML dan CSS.
 
 ## 🛠️ Teknologi
 
